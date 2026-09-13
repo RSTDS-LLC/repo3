@@ -10,7 +10,12 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+  "id": "659d98b1-c943-44b7-8416-a9b2cfa97172",
+  "name": "Common",
+  "publisher": "RSTDS, LLC",
+  "version": "1.0.0.0"
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
